@@ -1,0 +1,16 @@
+{
+  "name": "rotas",
+  "version": "1.0.0",
+  "description": "Rotas com NodeJS & Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bruno",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
